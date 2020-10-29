@@ -1,5 +1,6 @@
 import React from 'react';
 import Picture from '../assets/pic.jpg'
+import Resume from '../assets/Resume.pdf'
 import "./style.css"
 
 export const About = () => {
@@ -25,7 +26,7 @@ export const About = () => {
                 <p class="text-white">
                  I enjoy problem-solving and am a flexible worker that can work as a team or individually to get the task completed. I am passionate about web design and computer science and strive to further my knowledge in any way I can, and I look forward to challenging myself every day. 
                 </p>
-                <a href="assets/Andrew Popp Resume.pdf" class="btn btn-main">Resume PDF</a>
+                <a href={Resume} class="btn btn-main">Resume PDF</a>
              
                 
             </div>
