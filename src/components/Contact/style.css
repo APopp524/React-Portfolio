@@ -168,5 +168,8 @@ textarea:hover {
 
 #submit:hover {
   background: #45a29e;
-  color: #ffffff
+  color: #ffffff;
+  box-shadow: none;
+  transform: scale(.94);
+  outline: none !important;
 }
