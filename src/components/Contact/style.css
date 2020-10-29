@@ -1,83 +1,83 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-  color: #aca49c;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder {
-  color: #bbb5af;
+  color: #ffffff;
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #aca49c;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:focus::-moz-placeholder, textarea:focus::-moz-placeholder {
-  color: #bbb5af;
+  color: #ffffff;
 }
 
 input::placeholder, textarea::placeholder {
-  color: #aca49c;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:focus::placeholder, textarea::focus:placeholder {
-  color: #bbb5af;
+  color: #ffffff;
 }
 
 input::-ms-placeholder, textarea::-ms-placeholder {
-  color: #aca49c;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:focus::-ms-placeholder, textarea:focus::-ms-placeholder {
-  color: #bbb5af;
+  color: #ffffff;
 }
 
 /* on hover placeholder */
 
 input:hover::-webkit-input-placeholder, textarea:hover::-webkit-input-placeholder {
-  color: #e2dedb;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:hover:focus::-webkit-input-placeholder, textarea:hover:focus::-webkit-input-placeholder {
-  color: #cbc6c1;
+  color: #ffffff;
 }
 
 input:hover::-moz-placeholder, textarea:hover::-moz-placeholder {
-  color: #e2dedb;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:hover:focus::-moz-placeholder, textarea:hover:focus::-moz-placeholder {
-  color: #cbc6c1;
+  color: #ffffff;
 }
 
 input:hover::placeholder, textarea:hover::placeholder {
-  color: #e2dedb;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:hover:focus::placeholder, textarea:hover:focus::placeholder {
-  color: #cbc6c1;
+  color: #ffffff;
 }
 
 input:hover::placeholder, textarea:hover::placeholder {
-  color: #e2dedb;
+  color: #ffffff;
   font-size: 0.875em;
 }
 
 input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
-  color: #cbc6c1;
+  color: #ffffff;
 }
 
 body {
   font-family: 'Lato', sans-serif;
-  background: #e2dedb;
-  color: #b3aca7;
+  background: #45a29e;
+  color: #ffffff;
 }
 
 header {
@@ -108,9 +108,9 @@ input {
   
   background: transparent;
   outline: none;
-  color: #66fcf1;
+  color: #ffffff;
   
-  border: solid 1px #b3aca7;
+  border: 2px solid #66fcf1;
   border-bottom: none;
   
   transition: all 0.3s ease-in-out;
@@ -120,8 +120,8 @@ input {
 }
 
 input:hover {
-  background: #b3aca7;
-  color: #e2dedb;
+  background: #45a29e;
+  color: #ffffff;
 }
 
 textarea {
@@ -133,11 +133,11 @@ textarea {
   background: transparent;
   outline: none;
   
-  color: #66fcf1;
+  color: #ffffff;
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
   
-  border: solid 1px #b3aca7;
+  border: 2px solid #66fcf1;
   
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -146,8 +146,8 @@ textarea {
 }
 
 textarea:hover {
-  background: #b3aca7;
-  color: #e2dedb;
+  background: #45a29e;
+  color: #ffffff
 }
 
 #submit {
@@ -157,15 +157,16 @@ textarea:hover {
   
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
-  color: #b3aca7;
+  color: #ffffff;
   
   outline:none;
   cursor: pointer;
   
-  border: solid 1px #b3aca7;
+  border: solid 1px #66fcf1;
   border-top: none;
 }
 
 #submit:hover {
-  color: #e2dedb;
+  background: #45a29e;
+  color: #ffffff
 }

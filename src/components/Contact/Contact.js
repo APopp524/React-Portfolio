@@ -7,11 +7,11 @@ export const Contact = () => {
 
 <div align="center">
     <h2>Let's Talk!</h2>
-    <form id="form" class="topBefore">		
+    <form id="form" class="topBefore" action="mailto:apopp524@gmail.com" method="post" enctype="text/plain">		
         <input id="name" type="text" placeholder="NAME"></input>
         <input id="email" type="text" placeholder="E-MAIL"></input>
         <textarea id="message" type="text" placeholder="MESSAGE"></textarea>
-        <input id="submit" type="submit" value="GO!"></input>
+        <input id="submit" type="submit" value="SUBMIT"></input>
     </form>
 </div>
 
