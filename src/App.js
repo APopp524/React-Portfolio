@@ -8,6 +8,7 @@ import { Portfolio } from './components/Portfolio/Portfolio';
 import { About } from './components/About/About';
 import { Home } from './components/Home/Home';
 
+
 function App() {
   return (
     <div className="App">
