@@ -10,7 +10,7 @@ Node.js | SASS | React | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 ## Live Demo
 
-The demo of the application can be found [here]().
+The demo of the application can be found [here](https://andrew-popp.herokuapp.com/).
 
 ## Directions
 
@@ -26,4 +26,5 @@ Now, open the local application on port 3000 at the URL: `http://localhost:3000/
 
 ## Screenshot
 
+![Screen Shot 2020-10-30 at 4 29 58 PM (3)](https://user-images.githubusercontent.com/64044377/97758704-76e0e480-1acd-11eb-952f-216f7e7ad267.png)
 
