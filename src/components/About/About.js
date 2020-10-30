@@ -21,7 +21,7 @@ export const About = () => {
                 </h1>
                 
                 <p class="p-first text-white">
-                Full Stack Web Developer with a Digital Media Production degree and experience in the live events, media, and television industry. Recently earned a certificate in Full Stack development from the University of Kansas with new skills in JavaScript, jQuery, CSS3, HTML5, MySQL, NoSQL, Node.js, React.js and responsive web design.
+                Full Stack Web Developer with a Digital Media Production degree and experience in the live events, media, and television industry. Recently earned a certificate in Full Stack development from the University of Kansas with new skills in JavaScript, jQuery, CSS3, HTML5, MySQL, NoSQL, MERN stack and responsive web design.
                 </p>
                 <p class="text-white">
                 I am a self-motivated problem solver that is flexible working with a team or individually and am always striving to learn and find new creative challenges everyday.
