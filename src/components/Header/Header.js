@@ -2,7 +2,7 @@ import React from 'react';
 import "./style.css"
 
 
-export const Navigation = () => (
+export const Header = () => (
 
     //Hamburger Menu HTML//
 
@@ -35,4 +35,4 @@ export const Navigation = () => (
     </div>
   )
   
-  export default Navigation;
+  export default Header;

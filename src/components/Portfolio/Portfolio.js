@@ -7,7 +7,6 @@ import Weather from '../assets/weather.png'
 import Burger from '../assets/burger.png'
 import Storventory from '../assets/storventory.png'
 import Note from '../assets/note.png'
-
 import { Container } from 'reactstrap';
 
 
@@ -102,12 +101,9 @@ export const Portfolio = () => {
             </div>
           </div>
         </Col>
-
       </Row>
       </div>
     </Container>
-
-    
 
     )};
 
