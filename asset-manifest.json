@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d4e76644.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.fd68b0e9.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fd68b0e9.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.9f2ff109.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.9f2ff109.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/React-Portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.046ff17a.chunk.js": "/React-Portfolio/static/js/2.046ff17a.chunk.js",
+    "static/js/2.046ff17a.chunk.js.map": "/React-Portfolio/static/js/2.046ff17a.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/React-Portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.d4e76644.chunk.css.map": "/React-Portfolio/static/css/main.d4e76644.chunk.css.map",
+    "static/js/2.046ff17a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.046ff17a.chunk.js.LICENSE.txt",
+    "static/media/Resume.5a7e1391.pdf": "/React-Portfolio/static/media/Resume.5a7e1391.pdf",
+    "static/media/burger.bb0bb08c.png": "/React-Portfolio/static/media/burger.bb0bb08c.png",
+    "static/media/day-planner.e39c3241.png": "/React-Portfolio/static/media/day-planner.e39c3241.png",
+    "static/media/expo-food.38ce39a0.png": "/React-Portfolio/static/media/expo-food.38ce39a0.png",
+    "static/media/note.6f748a7a.png": "/React-Portfolio/static/media/note.6f748a7a.png",
+    "static/media/pic.c50699c3.jpg": "/React-Portfolio/static/media/pic.c50699c3.jpg",
+    "static/media/storventory.2c1df29d.png": "/React-Portfolio/static/media/storventory.2c1df29d.png",
+    "static/media/weather.30530927.png": "/React-Portfolio/static/media/weather.30530927.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f2ff109.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.046ff17a.chunk.js",
+    "static/css/main.d4e76644.chunk.css",
+    "static/js/main.fd68b0e9.chunk.js"
+  ]
+}
